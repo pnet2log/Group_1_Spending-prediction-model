@@ -14,3 +14,4 @@ Case Scenario:- TANZANIA TOURISM SECTOR
    The dataset describes 6476 rows of up-to-date information on tourist expenditure collected by the National Bureau of Statistics (NBS) in Tanzania.The dataset was collected to gain a better understanding of the status of the tourism sector and provide an instrument that will enable sector growth. The survey covers seven departure points, namely: Julius Nyerere International Airport, Kilimanjaro International Airport, Abeid Amani Karume International Airport, and the Namanga, Tunduma, Mtukula and Manyovu border points.
 
 # KEY INSIGHTS/OBSERVATION AND RECOMMENDATIONS 
+From the EDA which shows that most tourist patronise wildlife activities followed by beech tourism. The government of tanzania needs to look into other activities to find out why tourist are not patronizing other activities such as diving and sport fishing, mountian climbing, birdwatching,business and cultural tourism which has gresat potentials if leverage.
