@@ -24,3 +24,7 @@ NOTABLE INSIGHTS FROM THE RESEARCH
 3. mode of payments were mostly cash payments and looking at the exchange rates of various currencies against that of tanzania, it is recommended that the authorities discourages the use of cash for tourist in the near future. this can be done by making arrangements for a credit card with a tanzanian financial body during the visa application stage to as to easily access the card upon arival.
 
 4. the tourists spent more nights in tanzania mainland other than zanziba, going forward, more accomodation facilities should be provided and situated in tanzania mainland. zanziba shpuld also be made attaractive and comfortable for tourists too.
+5. Tourists from the united states of america visited Tanzania more than tourists from anywhere else
+6. A lot of tourists seem to travel alone and very little out of the many tend to travel with children
+7. The main reason for most tourists coming to Tanzania is mostly for leisure and holiday reasons
+
