@@ -38,3 +38,4 @@ NOTABLE INSIGHTS FROM THE RESEARCH
 4. Tourist mostly go for the unpackaged food as insighted from the visualizations above, there is need for improvement in the culinary and caterng servies of the sector as in employing the best chefs, online promotion of the food and cooking process which aashould be hygienic, inviting and colourful.
 
 5. After deep analysis, it is observed that the most preferred mode of payment by the tourists is cash, which places them on a high risk of getting robbed. We recommend that a limit is given for the possession of cash on one's self, to avoid instances of robbery and pick-pocketing.
+we notice that the country has a huge tourism potential hence, more material investment into the tourism sector can generate good foreign exchange earnings to the country.
