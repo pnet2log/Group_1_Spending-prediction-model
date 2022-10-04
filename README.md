@@ -36,3 +36,5 @@ NOTABLE INSIGHTS FROM THE RESEARCH
 3. The most profitable aspects of tourism include wildlife tourism, beach tourism, hunting tourism, cultural tourism, conference toursim and business tourism respectively; cultural tourism is best for investment, this is because when more is invested in that sector (especially the cultural attair aspect), there will be more revenue genrated through the sales of  theses products, the returns can then be use to improve the other aspects of tourism as as a whole in tghe country.
 
 4. Tourist mostly go for the unpackaged food as insighted from the visualizations above, there is need for improvement in the culinary and caterng servies of the sector as in employing the best chefs, online promotion of the food and cooking process which aashould be hygienic, inviting and colourful.
+
+5. After deep analysis, it is observed that the most preferred mode of payment by the tourists is cash, which places them on a high risk of getting robbed. We recommend that a limit is given for the possession of cash on one's self, to avoid instances of robbery and pick-pocketing.
