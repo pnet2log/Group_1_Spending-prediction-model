@@ -29,4 +29,10 @@ NOTABLE INSIGHTS FROM THE RESEARCH
 7. The main reason for most tourists coming to Tanzania is mostly for leisure and holiday reasons
 
 
+1. It is observed that the united kingdom has the most spending tourist, special offer (2% of total spending) may be waved to tourist from the UK to attract more tourist from uk to Tanzania as tyhey keep spending more.
 
+2. The zanzibar island holds great potentials in tourist but from the insights generated, less nights (20%) are spend there compare to the conventional mainland(80%), investment should be channel towards the zanzibar espeically in the hospitality and leisure sector as good return on investment will better be obtained from there.
+
+3. The most profitable aspects of tourism include wildlife tourism, beach tourism, hunting tourism, cultural tourism, conference toursim and business tourism respectively; cultural tourism is best for investment, this is because when more is invested in that sector (especially the cultural attair aspect), there will be more revenue genrated through the sales of  theses products, the returns can then be use to improve the other aspects of tourism as as a whole in tghe country.
+
+4. Tourist mostly go for the unpackaged food as insighted from the visualizations above, there is need for improvement in the culinary and caterng servies of the sector as in employing the best chefs, online promotion of the food and cooking process which aashould be hygienic, inviting and colourful.
