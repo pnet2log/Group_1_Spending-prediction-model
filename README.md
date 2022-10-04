@@ -15,3 +15,12 @@ Case Scenario:- TANZANIA TOURISM SECTOR
 
 # KEY INSIGHTS/OBSERVATION AND RECOMMENDATIONS 
 From the EDA which shows that most tourist patronise wildlife activities followed by beech tourism. The government of tanzania needs to look into other activities to find out why tourist are not patronizing other activities such as diving and sport fishing, mountian climbing, birdwatching,business and cultural tourism which has gresat potentials if leverage.
+
+NOTABLE INSIGHTS FROM THE RESEARCH
+1. Majority of travellers are mostly of ages 24 to 64 and these are the same age groups with the highest spending rates among the tourists.
+
+2. the highest spending tourists came from the United Kingdom.
+
+3. mode of payments were mostly cash payments and looking at the exchange rates of various currencies against that of tanzania, it is recommended that the authorities discourages the use of cash for tourist in the near future. this can be done by making arrangements for a credit card with a tanzanian financial body during the visa application stage to as to easily access the card upon arival.
+
+4. the tourists spent more nights in tanzania mainland other than zanziba, going forward, more accomodation facilities should be provided and situated in tanzania mainland. zanziba shpuld also be made attaractive and comfortable for tourists too.
