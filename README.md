@@ -28,3 +28,5 @@ NOTABLE INSIGHTS FROM THE RESEARCH
 6. A lot of tourists seem to travel alone and very little out of the many tend to travel with children
 7. The main reason for most tourists coming to Tanzania is mostly for leisure and holiday reasons
 
+
+
