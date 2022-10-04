@@ -12,3 +12,5 @@ Case Scenario:- TANZANIA TOURISM SECTOR
 
 # DATA DESCRIPTION
    The dataset describes 6476 rows of up-to-date information on tourist expenditure collected by the National Bureau of Statistics (NBS) in Tanzania.The dataset was collected to gain a better understanding of the status of the tourism sector and provide an instrument that will enable sector growth. The survey covers seven departure points, namely: Julius Nyerere International Airport, Kilimanjaro International Airport, Abeid Amani Karume International Airport, and the Namanga, Tunduma, Mtukula and Manyovu border points.
+
+# KEY INSIGHTS/OBSERVATION AND RECOMMENDATIONS 
